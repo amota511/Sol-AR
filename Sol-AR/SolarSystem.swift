@@ -53,7 +53,7 @@ class SolarSystem: UIViewController, ARSCNViewDelegate {
     
     func createTitle() {
         
-        titleLabel?.text = "Sol-AR"
+        titleLabel?.text = "AR Solar System"
         titleLabel?.textAlignment = .center
         titleLabel?.textColor = .white
         titleLabel?.font = UIFont(name: "Kohinoor Bangla", size:  45.0)
